@@ -1,3 +1,4 @@
-bin/
-obj/
+/out
 -1.-.csproj
+/bin
+/obj
